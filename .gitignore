@@ -1,0 +1,26 @@
+# Node.js (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.eslintcache
+
+# Python (backend)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# Env files
+.env
+
+# VS Code / JetBrains IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
