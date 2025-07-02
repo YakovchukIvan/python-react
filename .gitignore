@@ -15,7 +15,7 @@ __pycache__/
 venv/
 
 # Env files
-.env
+# .env
 
 # VS Code / JetBrains IDEs
 .idea/
