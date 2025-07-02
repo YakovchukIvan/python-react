@@ -39,6 +39,6 @@ uvicorn main:app --reload
 
 ## 2. Запуск фронтенд (Vite)
 
-cd ../frontend
-npm install
+cd ../frontend <br>
+npm install <br>
 npm run dev
